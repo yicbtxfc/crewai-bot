@@ -1,0 +1,8 @@
+find_jobs:
+  description: Find cybersecurity job opportunities
+
+match_skills:
+  description: Compare user skills to job requirements
+
+build_portfolio:
+  description: Suggest cybersecurity portfolio projects
