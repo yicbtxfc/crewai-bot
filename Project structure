@@ -1,13 +1,14 @@
 crewai-bot/
 │
 ├── pyproject.toml
+├── uv.lock (or poetry.lock)
 ├── README.md
 ├── .gitignore
 │
-├── src/
-│   ├── main.py
-│   ├── crew.py
-│   │
-│   └── config/
-│       ├── agents.yaml
-│       └── tasks.yaml
+└── src/
+    ├── main.py
+    │
+    └── config/
+        ├── crew.py
+        ├── agents.yaml
+        └── tasks.yaml
