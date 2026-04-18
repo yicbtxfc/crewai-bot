@@ -1,0 +1,11 @@
+[project]
+name = "crewai-bot"
+version = "0.1.0"
+description = "CrewAI Cybersecurity Career Assistant"
+requires-python = ">=3.10"
+
+dependencies = [
+    "crewai",
+    "python-dotenv",
+    "requests"
+]
