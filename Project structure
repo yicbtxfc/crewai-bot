@@ -1,0 +1,13 @@
+crewai-bot/
+│
+├── pyproject.toml
+├── README.md
+├── .gitignore
+│
+├── src/
+│   ├── main.py
+│   ├── crew.py
+│   │
+│   └── config/
+│       ├── agents.yaml
+│       └── tasks.yaml
